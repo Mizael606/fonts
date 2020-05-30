@@ -8,11 +8,11 @@ module.exports = {
   entry: './index.ts',
   output: {
     path: path.join(__dirname, 'fonts'),
-    filename: 'app.[hash].js',
+    filename: 'style.js',
   },
   plugins: [
     new MiniCssExtract({
-      filename: '[name].[hash].css',
+      filename: 'style.css',
       chunkFilename: '[id].css',
     }),
   ],
