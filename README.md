@@ -26,3 +26,12 @@
       font-family: 'Circular Std'...;
     }
   ```
+
+- *Sailec Font*
+  ```
+    @import: url('https://mizael606.github.io/fonts/sailec/cdn/style.css');
+    .sua_classe {
+      ---
+      font-family: 'Sailec'...;
+    }
+  ```
