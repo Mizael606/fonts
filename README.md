@@ -17,3 +17,12 @@
       font-family: 'Inter UI'...;
     }
   ```
+
+- *Circular Std Font*
+  ```
+    @import: url('https://mizael606.github.io/fonts/circular-std/cdn/style.css');
+    .sua_classe {
+      ---
+      font-family: 'Circular Std'...;
+    }
+  ```
