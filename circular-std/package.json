@@ -1,0 +1,27 @@
+{
+  "name": "circular-std",
+  "version": "0.0.1",
+  "description": "Font Circular STD",
+  "main": "main.ts",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "Mizael <nemeses606@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.0.6",
+    "copy-webpack-plugin": "^6.0.1",
+    "css-loader": "^3.5.3",
+    "file-loader": "^6.0.0",
+    "mini-css-extract-plugin": "^0.9.0",
+    "optimize-css-assets-webpack-plugin": "^5.0.3",
+    "postcss-loader": "^3.0.0",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2",
+    "ts-loader": "^7.0.5",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.3",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
