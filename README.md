@@ -44,3 +44,19 @@
     font-family: 'Cassandra Personal'...;
   }
 ```
+
+- *Panton Font*
+```
+  @import: url('https://mizael606.github.io/fonts/panton/cdn/style.css');
+  .sua_classe {
+    ---
+    font-family: 'Panton'...;
+  }
+  
+  /*or*/
+
+  .sua_classe {
+    ---
+    font-family: 'Panton Narrow'...;
+  }
+```
