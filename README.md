@@ -36,11 +36,11 @@
     }
   ```
 
-  - *Cassandra Personal Font*
-  ```
-    @import: url('https://mizael606.github.io/fonts/cassandra-personal/cdn/style.css');
-    .sua_classe {
-      ---
-      font-family: 'Cassandra Personal'...;
-    }
-  ```
+- *Cassandra Personal Font*
+```
+  @import: url('https://mizael606.github.io/fonts/cassandra-personal/cdn/style.css');
+  .sua_classe {
+    ---
+    font-family: 'Cassandra Personal'...;
+  }
+```
