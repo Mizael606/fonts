@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Cassandra Personal';
+    src: url('./assets/fonts/CassandraPersonalUse-Regular.eot');
+    src: url('./assets/fonts/CassandraPersonalUse-Regular.eot?#iefix') format('embedded-opentype'),
+        url('./assets/fonts/CassandraPersonalUse-Regular.woff2') format('woff2'),
+        url('./assets/fonts/CassandraPersonalUse-Regular.woff') format('woff'),
+        url('./assets/fonts/CassandraPersonalUse-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
