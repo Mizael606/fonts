@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Frosty';
+    src: url('Frosty-Regular.eot');
+    src: local('./assets/fonts/Frosty Regular'), local('./assets/fonts/Frosty-Regular'),
+        url('./assets/fonts/Frosty-Regular.eot?#iefix') format('embedded-opentype'),
+        url('./assets/fonts/Frosty-Regular.woff2') format('woff2'),
+        url('./assets/fonts/Frosty-Regular.woff') format('woff'),
+        url('./assets/fonts/Frosty-Regular.ttf') format('truetype'),
+        url('./assets/fonts/Frosty-Regular.svg#Frosty-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

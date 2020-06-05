@@ -60,3 +60,12 @@
     font-family: 'Panton Narrow'...;
   }
 ```
+
+- *Frosty Font*
+```
+  @import: url('https://mizael606.github.io/fonts/frosty/cdn/style.css');
+  .sua_classe {
+    ---
+    font-family: 'Frosty'...;
+  }
+```
